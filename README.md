@@ -28,7 +28,7 @@ A plataforma está sendo planejada para oferecer:
 
 > **Status:** projeto em desenvolvimento. As funcionalidades serão implementadas gradualmente; nesta fase inicial, a prioridade é construir e validar a interface web.
 
-## 🖥️ Tecnologias que eu usei
+## Tecnologias que eu usei
 
 ### Front-end
 - [Next.js](https://nextjs.org/)
