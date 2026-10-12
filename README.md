@@ -26,7 +26,6 @@ A plataforma está sendo planejada para oferecer:
 - **Painel administrativo:** gerenciamento de usuários, empresas, vagas, eventos e indicadores.
 - **Privacidade e segurança:** cuidados com os dados pessoais e com o consentimento dos usuários, conforme a LGPD.
 
-> **Status:** projeto em desenvolvimento. As funcionalidades serão implementadas gradualmente; nesta fase inicial, a prioridade é construir e validar a interface web.
 
 ## Tecnologias que eu usei
 
